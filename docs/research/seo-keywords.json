@@ -1,0 +1,39 @@
+{
+  "primary": [
+    "insulation removal",
+    "arizona insulation",
+    "insulation contractor"
+  ],
+  "secondary": [
+    "spray foam removal",
+    "attic insulation",
+    "insulation services"
+  ],
+  "long_tail": [
+    "insulation removal contractors near me",
+    "professional insulation removal arizona",
+    "spray foam insulation removal cost"
+  ],
+  "local": {
+    "Phoenix": [
+      "phoenix insulation removal",
+      "insulation removal phoenix az"
+    ],
+    "Tucson": [
+      "tucson insulation removal",
+      "insulation removal tucson"
+    ],
+    "Mesa": [
+      "mesa insulation removal",
+      "insulation contractor mesa"
+    ],
+    "Chandler": [
+      "chandler insulation removal",
+      "insulation services chandler"
+    ],
+    "Scottsdale": [
+      "scottsdale insulation removal",
+      "insulation contractor scottsdale"
+    ]
+  }
+}

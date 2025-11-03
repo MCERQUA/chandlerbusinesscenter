@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "title": "Chandler Business Center | Local Business Directory & Community Hub",
+      "description": "Discover local businesses, services, and community resources in Chandler, Arizona. Your comprehensive guide to Chandler's business community.",
+      "keywords": [
+        "chandler businesses",
+        "chandler arizona",
+        "local business directory",
+        "chandler community",
+        "chandler services"
+      ],
+      "sections": [
+        {
+          "type": "hero",
+          "heading": "Chandler Business Center",
+          "subheading": "Your Local Business Directory & Community Hub",
+          "cta": "Explore Businesses"
+        },
+        {
+          "type": "services",
+          "heading": "Featured Categories",
+          "services": [
+            {
+              "name": "Local Restaurants",
+              "description": "Discover the best dining options in Chandler",
+              "link": "/categories/restaurants"
+            },
+            {
+              "name": "Professional Services",
+              "description": "Find lawyers, accountants, consultants and more",
+              "link": "/categories/professional-services"
+            },
+            {
+              "name": "Home Services",
+              "description": "Contractors, plumbers, electricians, and handymen",
+              "link": "/categories/home-services"
+            },
+            {
+              "name": "Health & Wellness",
+              "description": "Doctors, dentists, fitness centers, and spas",
+              "link": "/categories/health-wellness"
+            },
+            {
+              "name": "Shopping & Retail",
+              "description": "Local shops, boutiques, and retail stores",
+              "link": "/categories/shopping"
+            },
+            {
+              "name": "Community Resources",
+              "description": "Schools, libraries, parks, and local government",
+              "link": "/categories/community"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
